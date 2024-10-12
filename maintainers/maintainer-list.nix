@@ -14485,7 +14485,7 @@
     email = "mr.navastar@gmail.com";
     github = "MrNavaStar";
     githubId = 43613843;
-  }
+  };
   mrtarantoga = {
     email = "goetz-dev@web.de";
     name = "Götz Grimmer";
