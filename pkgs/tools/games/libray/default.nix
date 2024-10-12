@@ -8,7 +8,7 @@ buildPythonApplication rec {
 
   src = fetchPypi {
     inherit pname version;
-    hash = "sha256-6b5c0ef06385f0f22a9b316be7eb3d361eac6471e9571b46685adb8f012b517f=";
+    hash = "sha256-a1wO8GOF8PIqmzFr5+s9Nh6sZHHpVxtGaFrbjwErUX8=";
   };
   nativeBuildInputs = [ setuptools-scm ];
   propagatedBuildInputs = [ tqdm pycryptodome requests beautifulsoup4 html5lib ];
