@@ -14480,6 +14480,12 @@
     githubId = 15896005;
     name = "Vladyslav Burzakovskyy";
   };
+  mrnavastar = {
+    name = "MrNavaStar";
+    email = "mr.navastar@gmail.com";
+    github = "MrNavaStar";
+    githubId = 43613843;
+  }
   mrtarantoga = {
     email = "goetz-dev@web.de";
     name = "Götz Grimmer";
